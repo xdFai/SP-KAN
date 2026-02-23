@@ -14,7 +14,7 @@
 
 We present a Sparse-sine Perception Kolmogorov–Arnold Networks (SP-KAN) to the IRSTD task. Experiments on public datasets demonstrate the effectiveness of our method. Our main contributions are as follows:
 
-1. We reformulate IRSTD as a global context modulation problem driven by sparse nonlinear modules and propose a Sparse-sine Perception Kolmogorov–Arnold Network (SP-KAN).
+1. We propose SP-KAN, which reformulate IRSTD as a global context modulation problem driven by sparse nonlinear modules.
 
 2. We design a pattern complementarity module (PCM) to capture unstructured dependencies and local saliency interactions, enhancing target–background separability.
 
