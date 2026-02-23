@@ -109,7 +109,7 @@ python test.py
 #### Quantitative Results on  SIRSTv1, NUDT-SIRST, IRSTD-1K， and SIRST3. i.e, one weight for four Datasets.
 
 | Model         | mIoU (x10(-2)) |  F-measure (x10(-2)) | Pd (x10(-2))|  Fa (x10(-6))|
-| ------------- |:-------------:|:-----:|:-----:|:-----:|:-----:|
+| ------------- |:-------------:|:-----:|:-----:|:-----:|
 | SIRST v1      | 79.15  |  88.36 | 97.72 | 14.82 |
 | NUDT-SIRST    | 95.24  |  97.56 | 99.36 | 3.17  | 
 | IRSTD-1K      | 68.02  |  80.96 | 93.27 | 10.12 |
