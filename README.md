@@ -141,7 +141,7 @@ author = {Shuai Yuan and Yu Liu and Xiaopei Zhang and Xiang Yan and Hanlin Qin a
 
 
 ## Contact
-**Welcome to raise issues or email to [yuansy@stu.xidian.edu.cn](yuansy@stu.xidian.edu.cn) for any question regarding our SCTransNet.**
+**Welcome to raise issues or email to [yuansy@stu.xidian.edu.cn](shuaiyuan@hfut.edu.cn) for any question regarding our SP-KAN.**
 
 
 
