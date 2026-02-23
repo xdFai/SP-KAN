@@ -1,6 +1,6 @@
 # SP-KAN: Sparse-sine Perception Kolmogorov–Arnold Networks for Infrared Small Target Detection [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271626000705) [[Weight]](https://drive.google.com/file/d/1LF0TRmxJ0J8zm8IiDG37LH_7_9dLuFVp/view?usp=sharing) 
 
-### Shuai Yuan, Yu Liu, Xiaopei Zhang, Xiang Yan, Hanlin Qin, Naveed Akhtar, ISPRS Journal of Photogrammetry and Remote Sensing 2026.
+#### Shuai Yuan, Yu Liu, Xiaopei Zhang, Xiang Yan, Hanlin Qin, Naveed Akhtar, ISPRS Journal of Photogrammetry and Remote Sensing 2026.
 
 ### If the implementation of this repo is helpful to you, just star it！ ⭐⭐⭐
 
