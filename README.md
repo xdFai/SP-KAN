@@ -2,18 +2,8 @@
 
 Shuai Yuan, Yu Liu, Xiaopei Zhang, Xiang Yan, Hanlin Qin, Naveed Akhtar, ISPRS Journal of Photogrammetry and Remote Sensing 2026.
 
-# SCTransNet 是PRCV 2024、ICPR 2024 Track 1、ICPR 2024 Track 2 三项比赛冠军方案的 Baseline, 同时也是多个优胜算法的Baselines. [[Paper]](https://arxiv.org/abs/2408.09615)
-
-# Bilibili 视频分享
-https://www.bilibili.com/video/BV1kr421M7wx/
-
-# 极市平台 推文分享
-https://mp.weixin.qq.com/s/H7KLmtFX7j09f-Xc6X1FRw
-
 # If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
 
-# Challenges and inspiration   
-![Image text](https://github.com/xdFai/SCTransNet/blob/main/Fig/picture01.png)
 
 # Structure
 ![Image text](https://github.com/xdFai/SCTransNet/blob/main/Fig/picture2.png)
