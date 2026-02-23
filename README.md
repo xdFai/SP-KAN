@@ -11,13 +11,13 @@ If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
 
 # Introduction
 
-We present a Spatial-channel Cross Transformer Network (SCTransNet) to the IRSTD task. Experiments on both public (e.g., SIRST, NUDT-SIRST, IRSTD-1K) demonstrate the effectiveness of our method. Our main contributions are as follows:
+We present a Sparse-sine Perception Kolmogorov–Arnold Networks (SP-KAN) to the IRSTD task. Experiments on public datasets demonstrate the effectiveness of our method. Our main contributions are as follows:
 
-1. We propose SCTransNet, leveraging spatial-channel cross transformer blocks (SCTB)  to predict the context of targets and backgrounds in the deeper network layers.
+1. We reformulate IRSTD as a global context modulation problem driven by sparse nonlinear modules and propose a Sparse-sine Perception Kolmogorov–Arnold Network (SP-KAN).
 
-2. A spatial-embedded single-head channel-cross attention (SSCA) module is utilized to foster semantic interactions across all feature levels and learn the long-range context.
+2. We design a pattern complementarity module (PCM) to capture unstructured dependencies and local saliency interactions, enhancing target–background separability.
 
-3. We devise a novel complementary feed-forward network (CFN) by crossing spatial-channel information to enhance the semantic difference between the target and background.
+3. We devise a sparse-sine perception Kolmogorov–Arnold layer (SPKAL) to unlock the nonlinear representational potential of the KAN layer. 
 
 
 ## Usage
