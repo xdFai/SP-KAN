@@ -5,9 +5,9 @@
 ### If the implementation of this repo is helpful to you, just star it！ ⭐⭐⭐
 
 # Structure
-![Image text](https://github.com/xdFai/SP-KAN/blob/main/KAN01.png)
+![Image text](https://github.com/xdFai/SP-KAN/blob/main/Fig/KAN01.png)
 
-![Image text](https://github.com/xdFai/SP-KAN/blob/main/KAN02.png)
+![Image text](https://github.com/xdFai/SP-KAN/blob/main/Fig/KAN02.png)
 
 
 # Introduction
@@ -102,7 +102,7 @@ python test.py
 ## Results and Trained Models
 
 #### Qualitative Results
-![Image text](https://github.com/xdFai/SP-KAN/blob/main/KAN14.png)
+![Image text](https://github.com/xdFai/SP-KAN/blob/main/Fig/KAN14.png)
 
 
 
