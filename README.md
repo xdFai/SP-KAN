@@ -106,19 +106,20 @@ python test.py
 
 
 
-#### Quantitative Results on Mixed SIRSTv1, NUDT-SIRST, and IRSTD-1K. i.e, one weight for three Datasets.
+#### Quantitative Results on  SIRSTv1, NUDT-SIRST, IRSTD-1K， and SIRST3. i.e, one weight for four Datasets.
 
-| Model         | mIoU (x10(-2)) | nIoU (x10(-2)) | F-measure (x10(-2))| Pd (x10(-2))|  Fa (x10(-6))|
+| Model         | mIoU (x10(-2)) | nIoU (x10(-2)) | Pd (x10(-2))|  Fa (x10(-6))|
 | ------------- |:-------------:|:-----:|:-----:|:-----:|:-----:|
-| SIRSTv1    | 77.50  |  81.08 | 87.32 | 96.95 | 13.92 |
-| NUDT-SIRST    | 94.09  |  94.38 | 96.95 | 98.62 | 4.29  | 
-| IRSTD-1K      | 68.03  |  68.15 | 80.96 | 93.27 | 10.74 |
-| [[Weights]](https://drive.google.com/file/d/1Kxs2wKG2uq2YiGJOBGWoVz7B1-8DJoz3/view?usp=sharing)|
+| SIRST v1      | 79.15  |  88.36 | 97.72 | 14.82 |
+| NUDT-SIRST    | 95.24  |  97.56 | 99.36 | 3.17  | 
+| IRSTD-1K      | 68.02  |  80.96 | 93.27 | 10.12 |
+| SIRST3        | 84.20  |  91.42 | 98.14 | 8.01 |
+
 
 
 *This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
 
-*This code is highly borrowed from [UCTransNet](https://github.com/McGregorWwww/UCTransNet). Thanks to Haonan Wang.
+*This code is highly borrowed from [U-KAN](https://github.com/CUHK-AIM-Group/U-KAN). Thanks to Chenxin Li.
 
 *The overall repository style is highly borrowed from [DNA-Net](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
@@ -127,16 +128,17 @@ python test.py
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 
 ```
-@ARTICLE{10486932,
-  author={Yuan, Shuai and Qin, Hanlin and Yan, Xiang and Akhtar, Naveed and Mian, Ajmal},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={SCTransNet: Spatial-Channel Cross Transformer Network for Infrared Small Target Detection}, 
-  year={2024},
-  volume={62},
-  number={},
-  pages={1-15},
-  keywords={Semantics;Transformers;Decoding;Feature extraction;Task analysis;Object detection;Visualization;Convolutional neural network (CNN);cross-attention;deep learning;infrared small target detection (IRSTD);transformer},
-  doi={10.1109/TGRS.2024.3383649}}
+@article{SP-KAN,
+title = {SP-KAN: Sparse-sine perception Kolmogorov–Arnold networks for infrared small target detection},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {234},
+pages = {1-19},
+year = {2026},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2026.02.019},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271626000705},
+author = {Shuai Yuan and Yu Liu and Xiaopei Zhang and Xiang Yan and Hanlin Qin and Naveed Akhtar},
+}
 ```
 
 
