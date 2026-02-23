@@ -2,7 +2,7 @@
 
 Shuai Yuan, Yu Liu, Xiaopei Zhang, Xiang Yan, Hanlin Qin, Naveed Akhtar, ISPRS Journal of Photogrammetry and Remote Sensing 2026.
 
-**If the implementation of this repo is helpful to you, just star it！**⭐⭐⭐
+### If the implementation of this repo is helpful to you, just star it！**⭐⭐⭐
 # Structure
 ![Image text](https://github.com/xdFai/SP-KAN/blob/main/KAN01.png)
 
