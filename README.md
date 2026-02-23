@@ -102,8 +102,7 @@ python test.py
 ## Results and Trained Models
 
 #### Qualitative Results
-![Image text](https://github.com/xdFai/SCTransNet/blob/main/Fig/picture06.png)
-
+![Image text](https://github.com/xdFai/SP-KAN/blob/main/KAN14.png)
 
 
 
