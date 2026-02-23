@@ -6,9 +6,9 @@ Shuai Yuan, Yu Liu, Xiaopei Zhang, Xiang Yan, Hanlin Qin, Naveed Akhtar, ISPRS J
 
 
 # Structure
-![Image text](https://github.com/xdFai/SCTransNet/blob/main/Fig/picture2.png)
+![Image text](https://github.com/xdFai/SP-KAN/blob/main/KAN01.png)
 
-![Image text](https://github.com/xdFai/SCTransNet/blob/main/Fig/picture03.png)
+![Image text](https://github.com/xdFai/SP-KAN/blob/main/KAN02.png)
 
 
 # Introduction
