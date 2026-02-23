@@ -86,7 +86,7 @@ The **SIRST3** dataset, which combines **IRSTD-1K**, **NUDT-SIRST**, and **SIRST
   ```
 
 
-##### 2. Train.
+#### 2. Train.
 ```bash
 python train.py
 ```
